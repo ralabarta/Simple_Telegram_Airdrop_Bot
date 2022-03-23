@@ -1,6 +1,3 @@
-# Simple_Telegram_Airdrop_Bot
-A simple Telegram Airdrop Bot
-
 ## About
 The **Telegram Airdrop Bot** 💰 helps you to manage your airdrops on ERC-20, BEP-20 etc. tokens.
 
@@ -33,3 +30,4 @@ The **Telegram Airdrop Bot** 💰 helps you to manage your airdrops on ERC-20, B
       1. _When asked for "Common Name (e.g. server FQDN or YOUR name)" you should reply with your server ip._
 1. Edit and update [`config.py`](https://github.com/fabston/Telegram-Airdrop-Bot/blob/master/config.py)
 1. Run the bot `python main.py`
+
