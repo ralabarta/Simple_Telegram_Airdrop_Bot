@@ -18,7 +18,7 @@ The **Telegram Airdrop Bot** 💰 helps you to manage your airdrops on ERC-20, B
 1. Log into MySQL (`sudo mysql`) and create a dedicated database and user with the following commands:
    1. `CREATE DATABASE TelegramAirdropBot;`
    1. `CREATE USER 'AirdropUser'@'localhost' IDENTIFIED BY '<YOUR PASSWORD>';`
-   1. `GRANT ALL PRIVILEGES ON TelegramAirdropBot . * TO 'AirdropUser'@'localhost';`
+   1. `GRANT ALL PRIVILEGES ON TelegramAirdropBot. * TO 'AirdropUser'@'localhost';`
    1. `exit;`
 1. Clone this repository `git clone https://github.com/fabston/Telegram-Airdrop-Bot.git`
 1. Create your virtual environment `python3 -m venv Telegram-Airdrop-Bot`
