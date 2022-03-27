@@ -1,7 +1,7 @@
 ## About
 The **Telegram Airdrop Bot** 💰 helps you to manage your airdrops on ERC-20, BEP-20 etc. tokens.
 
-## Features
+## Features 
 - Check if the wallet length is correct
 - Set a max cap
 - Each wallet address can only be submitted once
