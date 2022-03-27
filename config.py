@@ -4,7 +4,7 @@
 # File Name             : main.py                  #
 # ------------------------------------------------ #
 
-# Enable / disable the airdrop 
+# Enable / disable the airdrop  
 airdrop_live = True
 
 # Telegram
